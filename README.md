@@ -16,10 +16,6 @@ JEREMY MONTEZ AMERISON SMITH, 27
 Black Male from CLIVE, IA
 Booked at 7/6/2015 11:45 AM
 
-.
-.
-.
-
 ERIC MARCUS STEEN, 28
 White Male from DES MOINES, IA
 Booked at 7/6/2015 10:21 AM
